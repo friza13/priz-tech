@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRight, Terminal, ShieldCheck, Database, GitBranch } from 'lucide-react';
 
 export default function Hero() {

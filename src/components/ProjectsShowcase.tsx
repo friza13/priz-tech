@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Layers, Terminal } from 'lucide-react';
 import { projectsData } from '../data/projectsData';
 import ProjectCard from './ProjectCard';

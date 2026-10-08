@@ -1,4 +1,3 @@
-import React from 'react';
 import { Globe, Shield, Terminal, Server, Lock, ArrowRight, Zap, Check } from 'lucide-react';
 
 export default function InfrastructureDiagram() {

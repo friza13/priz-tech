@@ -1,4 +1,3 @@
-import React from 'react';
 import { ExternalLink, Cpu, CheckCircle2, ShieldCheck } from 'lucide-react';
 import GithubIcon from './icons/GithubIcon';
 import { ProjectItem } from '../data/projectsData';

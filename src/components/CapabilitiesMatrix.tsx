@@ -1,5 +1,4 @@
-import React from 'react';
-import { Cpu, MapPin, HardDrive, Calculator, CheckCircle, ArrowRight } from 'lucide-react';
+import { Cpu, MapPin, HardDrive, Calculator, CheckCircle } from 'lucide-react';
 
 interface Pillar {
   title: string;

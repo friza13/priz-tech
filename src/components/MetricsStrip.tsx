@@ -1,8 +1,8 @@
-import React from 'react';
+import type { ElementType } from 'react';
 import { Layers, Zap, Scale, Navigation, Cpu } from 'lucide-react';
 
 export interface MetricItem {
-  icon: React.ElementType;
+  icon: ElementType;
   value: string;
   label: string;
   detail: string;
