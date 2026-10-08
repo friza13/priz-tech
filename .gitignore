@@ -1,6 +1,7 @@
-node_modules
-dist
-dist-ssr
-*.local
-.superpowers
+node_modules/
+dist/
+.env
+.env.local
+docs/PROMPT_*.md
+.superpowers/
 .DS_Store
